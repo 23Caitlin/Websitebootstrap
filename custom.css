@@ -29,6 +29,10 @@ footer a:hover{
     color: antiquewhite;
 }
 
+.singlecol{
+    max-width: 750px;
+}
+
 html, body{
     height: 100%;
 }
